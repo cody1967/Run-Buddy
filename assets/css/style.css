@@ -251,8 +251,28 @@
           font-size: 17px;
           line-height: 1.3;
         }
-        
 
+        .reachOutBox {
+          background-color: #024e76;
+          
+
+        }
+        .maptitle {
+          color: #fce138;
+          text-align: center;
+          padding: 5px;
+          
+        }
+        .border {
+          background-color: teal; 
+          padding-bottom: 5px;
+          width: 30%;
+        margin: 0 auto;
+        }
+        .contact-info {
+          margin: 0 auto;
+        
+        }
 
 
 
