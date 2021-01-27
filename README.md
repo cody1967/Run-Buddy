@@ -12,3 +12,4 @@ https://lernantintino.github.io/run-buddy/
 
 ## Contribution
 Made with ♥ by Cody McNeill
+;aljdfghghjf;gh
